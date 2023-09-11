@@ -1,0 +1,4 @@
+model_checkpoint_path: "RetinexNet-Relight-13100"
+all_model_checkpoint_paths: "RetinexNet-Relight-7860"
+all_model_checkpoint_paths: "RetinexNet-Relight-10480"
+all_model_checkpoint_paths: "RetinexNet-Relight-13100"
